@@ -8,3 +8,6 @@ How is the staging area different from the working directory and the repository?
 	The staging area offers an intermediate area that is also temporary. The working directory and 
 	repository are more permanent storage locations, but the staging area changes with each commit. Allows for very flexible and specific commits. 
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+	You can use the staging area by adding only the files you want to ensure that each one added corresponds to a logical change. You can basically carefully control each change of code that is included in a new commit. 
